@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "49710408468",
+    "project_id": "computervisionproject28042021",
+    "storage_bucket": "computervisionproject28042021.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:49710408468:android:333377211a94738dee9801",
+        "android_client_info": {
+          "package_name": "com.rachel.computervisionproject28042021"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "49710408468-vu3q3d9dtrtnuduer628nigskkq9kdc7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBF84Nko3zp7rMftIJjZ-j7OCbpuKCX1pI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "49710408468-vu3q3d9dtrtnuduer628nigskkq9kdc7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
