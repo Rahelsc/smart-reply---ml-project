@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">computerVisionProject28042021</string>
+    <string name="send">send</string>
+    <string name="write_your_reply_here">write your reply here...</string>
 </resources>
